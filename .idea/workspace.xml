@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a4b50a9b-1ca6-41ff-b691-30fd8962149e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/35bb50085e94649eb5d2af0493316fcc/.filecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/35bb50085e94649eb5d2af0493316fcc/app.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/35bb50085e94649eb5d2af0493316fcc/debug_android_application.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/35bb50085e94649eb5d2af0493316fcc/flutter_assets.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/35bb50085e94649eb5d2af0493316fcc/kernel_snapshot.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/35bb50085e94649eb5d2af0493316fcc/kernel_snapshot.stamp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
@@ -204,9 +199,6 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_1.dex" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_2.dex" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/FontManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/images/Ekle.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/images/Family.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/images/Private.png" afterDir="false" />
@@ -215,10 +207,8 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/images/diger.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/vm_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/libs.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/0DFrX5P9OHGJ59aDPwVX2kbzezM=" afterDir="false" />
@@ -308,7 +298,6 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/rfn0U4UA5z2xp1Jqoz5wBLRNaq0=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/s32yrYK40CN5VWPsI08m+q+xRBI=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/y36aCc_Zshd9sJJSr0irzYEGqN8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterDir="false" />
@@ -402,7 +391,6 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/QJJk1dMhC7kqJo_0XxPQdb+0yF0=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/pVxRJB9ZTcbmDn8eDR9G+tJr1n0=" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
@@ -634,20 +622,6 @@
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/javac/debug/classes/io/flutter/plugins/pathprovider/R$styleable.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/javac/debug/classes/io/flutter/plugins/pathprovider/R.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/AssetManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/FontManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/Ekle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/Family.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/Private.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/Travel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/Work.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/assets/images/diger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/isolate_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/vm_snapshot_data" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_manifests/debug/output.json" afterDir="false" />
@@ -1092,11 +1066,6 @@
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/app/tmp/kotlin-classes/debug/com/example/camsplit/MainActivity.class" afterDir="false" />
@@ -1312,33 +1281,49 @@
       <option name="presentableId" value="Default" />
       <updated>1595338498004</updated>
     </task>
+    <task id="LOCAL-00001" summary="fastprogram">
+      <created>1595538116084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595538116085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fastprogram" />
+    <option name="LAST_COMMIT_MESSAGE" value="fastprogram" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="116" key="CommitChangelistDialog2" timestamp="1595538001981">
+    <state x="580" y="116" key="CommitChangelistDialog2" timestamp="1595538110519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="580" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595538001981" />
-    <state width="1409" height="170" key="GridCell.Tab.0.bottom" timestamp="1595537448769">
+    <state x="580" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595538110519" />
+    <state width="1877" height="170" key="GridCell.Tab.0.bottom" timestamp="1595538250383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1409" height="170" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595537448769" />
-    <state width="1409" height="170" key="GridCell.Tab.0.center" timestamp="1595537448769">
+    <state width="1877" height="170" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595538250383" />
+    <state width="1877" height="170" key="GridCell.Tab.0.center" timestamp="1595538250383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1409" height="170" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595537448769" />
-    <state width="1409" height="170" key="GridCell.Tab.0.left" timestamp="1595537448769">
+    <state width="1877" height="170" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595538250383" />
+    <state width="1877" height="170" key="GridCell.Tab.0.left" timestamp="1595538250383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1409" height="170" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595537448769" />
-    <state width="1409" height="170" key="GridCell.Tab.0.right" timestamp="1595537448769">
+    <state width="1877" height="170" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595538250383" />
+    <state width="1877" height="170" key="GridCell.Tab.0.right" timestamp="1595538250383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1409" height="170" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595537448769" />
-    <state x="431" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595532388731">
+    <state width="1877" height="170" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595538250383" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1595538133297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="431" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595532388731" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595538133297" />
+    <state x="431" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595580636863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="431" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595580636863" />
     <state x="431" y="252" width="607" height="536" key="find.popup" timestamp="1595533911277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
